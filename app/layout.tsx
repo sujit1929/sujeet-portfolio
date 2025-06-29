@@ -9,9 +9,9 @@ import { Toaster } from "@/components/ui/sonner" // ✅ import your Toaster
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "John Doe - Frontend Developer",
+  title: "Sujeet Sharma - Frontend Developer",
   description:
-    "Personal portfolio of John Doe, a passionate frontend developer specializing in React, Next.js, and modern web technologies.",
+    "Personal portfolio of Sujeet Sharma, a passionate frontend developer specializing in React, Next.js, and modern web technologies.",
   generator: "v0.dev",
 }
 
