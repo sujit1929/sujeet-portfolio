@@ -10,7 +10,7 @@ import Image from "next/image"
 const projects = [
   {
     id: 1,
-    title: "WhatsApp-like Chat App",
+    title: "Echo Talk",
     description:
       "Real-time chat with OTP login, contact management, and Socket.IO messaging.",
     image: "/images/projects/chat-app.png",

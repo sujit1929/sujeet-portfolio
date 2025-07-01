@@ -18,21 +18,20 @@ const education = [
       "Focused on computer science fundamentals and software development. Gained a solid foundation in data structures, DBMS, and web technologies.",
     achievements: [
       "Completed with strong academic performance",
-      "Special focus on full-stack web development",
-      "Built practical projects using the MERN stack",
+      "Special focus on web development",
+      "Built practical projects using React.js and Next.js",
     ],
   },
   {
     id: "education-2",
-    degree: "Mern Stack Development",
+    degree: "Java Full Stack Development",
     school: "Ducat The It Training Institute",
     location: "Remote",
     period: "2023 - 2024",
     description:
-      "Deepened understanding of MERN stack development, including React.js, Node.js, Express.js, and MongoDB.",
+      "Deepened understanding of frontend development, including React.js, Next.js.",
     achievements: [
-      "Learned backend development with Express.js and MongoDB",
-      "Built full-stack apps using React.js and Node.js",
+      "Built frontend web using React.js and Next.js",
       "Practiced state management with Redux Toolkit",
     ],
   },
@@ -44,7 +43,7 @@ const experience = [
     title: "Frontend Developer",
     company: "AI Tools Bazaar",
     location: "Delhi",
-    period: "2024 - Present",
+    period: "jan 2025 - jul 2025",
     description:
       "Building and maintaining the AI Tools platform using modern frontend tools with modular, scalable UI components.",
     responsibilities: [

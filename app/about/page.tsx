@@ -25,11 +25,6 @@ const skills = [
   "Responsive Design",
   "API Integration",
   "Component-based Architecture",
-  "MongoDB",
-  "Express.js",
-  "Node.js",
-  "Socket.IO",
-  "Twilio API",
 ]
 
 const timeline = [
